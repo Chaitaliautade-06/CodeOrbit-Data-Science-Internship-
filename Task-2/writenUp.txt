@@ -1,0 +1,55 @@
+Task 2: Exploratory Data Analysis(EDA)
+
+Project Title: Exploratory Data Analysis of People and Income
+
+1.	Introduction
+
+    Exploratory Data Analysis(EDA) is a process of understanding the dataset with using
+     statistical methods and visualizations.
+    In this project, I performed EDA on a sample people-and-income dataset with
+     using Python, Pandas, Matplotlib and Seaborn.
+
+
+2.	Objective
+
+    The main objectives of this project were:
+    •	Understand the structure of the dataset.
+    •	Calculate basic statistical information.
+    •	Create histograms, bar charts, and scatter plots.
+    •	Identify patterns and trends.
+    •	Detect unusual values and outliers.
+    •	Summarize the important findings.
+
+
+3.	Tools and Technologies
+
+    •	Python
+    •	Jupyter Notebook
+    •	Pandas
+    •	Matplotlib
+    •	Seaborn
+
+
+4.	Key Findings
+
+    •	The dataset contains 12 records and 5 columns.
+    •	The average age is 32-42 years,
+    •	The average income is approximately 66,916.67.
+    •	The USA has the highest number of records, with 4 people.
+    •	There are 6 male & 6 Female records.
+    •	Canada’s sample average income is the highest, influenced by one unusually high income.
+    •	One income outlier of 150,000 was identified.
+    •	The age and income correlation is approximately 0.647, indicating a positive association in this sample.
+
+
+5.  Conclusion
+
+    In this project, I successfully performed Exploratory Data Analysis using Python.
+
+    I learned how to inspect a dataset, calculate statistical values, create different visualizations,
+      identify patterns, and detect outliers. 
+
+    This project improved my understanding of Pandas, Matplotlib, Seaborn, and practical data analysis. 
+
+    The analysis also demonstrated how graphs and statistics help us understand information and discover useful insights.
+
